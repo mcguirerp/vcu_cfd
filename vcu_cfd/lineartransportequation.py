@@ -85,4 +85,4 @@ print(end-start)
 #    u[0] = u[nx-2]
 #    u[nx-1] = u[1]
 
-plt.plot(u,x);
+plt.plot(x,u);
